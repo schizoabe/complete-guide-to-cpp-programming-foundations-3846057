@@ -13,8 +13,9 @@ int main(){
     std::cin >> num_2;
     
     result = num_1 + num_2;
-    
-    std::cout << "The result of the addition is " << result << std::endl;
+    msg="dfd";
+
+    std::cout << "The result of the addition is " << result << std::endl; 
     
     std::cout << std::endl << std::endl;
     return 0;
