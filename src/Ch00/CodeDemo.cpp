@@ -13,7 +13,6 @@ int main(){
     std::cin >> num_2;
     
     result = num_1 + num_2;
-    msg="dfd";
 
     std::cout << "The result of the addition is " << result << std::endl; 
     
